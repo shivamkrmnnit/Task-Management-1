@@ -30,7 +30,9 @@ npm i
 cd backend
 npm i
 ```
-run `npm run both` and backend will start
+##run
+`npm run both`
+frontent and backend will start
 
 ##Screenshot
 ![Screenshot 2024-11-13 182853](https://github.com/user-attachments/assets/39d8d282-b0eb-40a9-bd3e-cb8ad25317bf)
