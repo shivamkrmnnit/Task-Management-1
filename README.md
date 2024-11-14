@@ -30,7 +30,7 @@ npm i
 cd backend
 npm i
 ```
-##run
+## run
 `npm run both`
 frontent and backend will start
 
