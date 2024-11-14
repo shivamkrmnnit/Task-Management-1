@@ -15,7 +15,7 @@ backend in nodejs
 $ git clone https://github.com/shivamkrmnnit/Task-Management-1.git
 ```
 ```
-$ cd Task Management
+$ cd Task-Management-1
 ```
 ## Setting up frontend
 
