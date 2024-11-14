@@ -4,14 +4,17 @@ var  cors = require('cors')
 
 const cors = require('cors');
 
-app.use(cors({
-  origin: 'https://task-management-1-snowy.vercel.app', // Replace with your actual frontend URL
-}));
 
 connectToMongo();
 
 const app = express()
 const port = 5000
+
+
+
+app.use(cors({
+  origin: 'https://task-management-1-snowy.vercel.app', // Replace with your actual frontend URL
+}));
 
 app.use(cors())
 app.use(express.json())
