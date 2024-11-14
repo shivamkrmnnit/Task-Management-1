@@ -30,6 +30,11 @@ npm i
 cd backend
 npm i
 ```
+## Back To Directory 
+```
+cd ..
+
+```
 ## run
 ```
 npm run both
